@@ -16,7 +16,7 @@ Music is a significant part of daily life, and its influence on physical activit
 - **Spotify Data**: Listening history from Spotify's API, including genres, track names, and listening durations for 2024.
 - **Data:** Filtered health and Spotify data (*.csv files) from 2024-02-16 to 2024-11-25. [View output graphs](./Filtered_data)
 - **Graphs:** Visualizations of weekly trends for each dataset, saved as images in the Outputs folder. [View output graphs](./Filtered_data/Outputs_Graph)
-- **Graph Generation Code:** The graph.py file contains the Python functions used to generate the graphs. [View output graphs](./Filtered_data/graph.py)
+- **Graph Generation Code:** The graph.py file contains the Python functions used to generate the graphs. [View output graphs](./Filtered_data/graph_functions.py)
 
 ## **Methodology**
 1. **Data Cleaning**:
