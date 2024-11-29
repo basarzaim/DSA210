@@ -10,6 +10,9 @@ Music is a significant part of daily life, and its influence on physical activit
 1. How do different music genres influence physical activity (e.g., calories burned, steps)?
 2. Is there a correlation between listening time and exercise intensity?
 3. Are specific genres associated with higher or lower physical activity levels?
+4. Does headphone audio exposure correlate with changes in physical activity or calorie burn levels?
+5. Does listening to certain genres for prolonged periods affect walking speed or asymmetry metrics?
+6. Is there a relationship between music genres and headphone audio exposure levels?
 
 ## **Data**
 - **Health Data**: Collected from wearable device and mobile phone between 2021-2024. Metrics include calories burned, step count , average headphone exposure etc. Data for 2021-2023 has been filtered out, aligning the analysis with 2024 Spotify data.
