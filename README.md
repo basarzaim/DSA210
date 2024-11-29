@@ -21,7 +21,3 @@ Music is a significant part of daily life, and its influence on physical activit
 - **Graphs:** Visualizations of weekly trends for each dataset, saved as images in the Outputs folder. [View data on graphs](./Filtered_data/Outputs_Graph)
 - **Graph Generation Code:** The graph.py file contains the Python functions used to generate the graphs. [View the python code for deriving graphs.](./Filtered_data/graph_functions.py)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/basarzaim/DSA210
-   cd DSA210
