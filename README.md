@@ -14,9 +14,9 @@ Music is a significant part of daily life, and its influence on physical activit
 ## **Data**
 - **Health Data**: Collected from wearable device and mobile phone between 2021-2024. Metrics include calories burned, step count , average headphone exposure etc. Data for 2021-2023 has been filtered out, aligning the analysis with 2024 Spotify data.
 - **Spotify Data**: Listening history from Spotify's API, including genres, track names, and listening durations for 2024.
-- **Data:** Filtered health and Spotify data (*.csv files) from 2024-02-16 to 2024-11-25. [View output graphs](./Filtered_data)
-- **Graphs:** Visualizations of weekly trends for each dataset, saved as images in the Outputs folder. [View output graphs](./Filtered_data/Outputs_Graph)
-- **Graph Generation Code:** The graph.py file contains the Python functions used to generate the graphs. [View output graphs](./Filtered_data/graph_functions.py)
+- **Data:** Filtered health and Spotify data (*.csv files) from 2024-02-16 to 2024-11-25. [View data in csv format](./Filtered_data)
+- **Graphs:** Visualizations of weekly trends for each dataset, saved as images in the Outputs folder. [View data on graphs](./Filtered_data/Outputs_Graph)
+- **Graph Generation Code:** The graph.py file contains the Python functions used to generate the graphs. [View the python code for deriving graphs.](./Filtered_data/graph_functions.py)
 
 1. Clone the repository:
    ```bash
