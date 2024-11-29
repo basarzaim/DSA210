@@ -18,28 +18,6 @@ Music is a significant part of daily life, and its influence on physical activit
 - **Graphs:** Visualizations of weekly trends for each dataset, saved as images in the Outputs folder. [View output graphs](./Filtered_data/Outputs_Graph)
 - **Graph Generation Code:** The graph.py file contains the Python functions used to generate the graphs. [View output graphs](./Filtered_data/graph_functions.py)
 
-## **Methodology**
-1. **Data Cleaning**:
-   - Filtered health data to align with Spotify data for 2024.
-   - Enriched Spotify data with genres fetched from Spotify's Web API.
-2. **Exploratory Data Analysis (EDA)**:
-   - Visualized weekly trends for each health metric.
-   - Analyzed Spotify listening time and genre distributions over time.
-3. **Modeling**:
-   - Built regression models to predict calorie burn based on listening habits.
-   - Used clustering to identify patterns between genres and physical activity.
-
-## **Findings**
------------------------
-
-## **Limitations**
-- Limited to 2024 Spotify data.
-- Genre data may include multiple genres per track, requiring aggregation.
-- Potential bias due to incomplete health tracking on some days.
-
-
-## **How to Run the Code**
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/basarzaim/DSA210
