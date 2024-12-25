@@ -40,33 +40,33 @@ Music is a significant part of daily life, and its influence on physical activit
 - Prolonged listening to specific genres did not significantly impact walking speed or asymmetry.
 
 **4. Headphone Audio Exposure:**
--Average headphone audio exposure levels were similar across genres, with no genre-specific trends.
+- Average headphone audio exposure levels were similar across genres, with no genre-specific trends.
 
 
 ## **Limitations**
--Granularity:
--Aggregated data (daily/monthly) may have masked finer patterns.
+- Granularity:
+- Aggregated data (daily/monthly) may have masked finer patterns.
 
--External Factors:
--Activity levels and audio exposure might be influenced by factors outside the dataset (e.g., lifestyle, environmental noise).
+- External Factors:
+- Activity levels and audio exposure might be influenced by factors outside the dataset (e.g., lifestyle, environmental noise).
 
--Causality:
--Correlations do not imply causation due to the observational nature of the data.
+- Causality:
+- Correlations do not imply causation due to the observational nature of the data.
 
 ## **Future Directions**
--Refinement:
--Include additional data, such as workout types and user demographics, for deeper analysis.
--Personalization:
--Analyze individual-level trends to uncover personalized insights.
--Long-Term Trends:
--Examine data over extended periods to identify seasonal patterns.
+**Refinement:**
+- Include additional data, such as workout types and user demographics, for deeper analysis.
+**Personalization:**
+- Analyze individual-level trends to uncover personalized insights.
+**Long-Term Trends:**
+- Examine data over extended periods to identify seasonal patterns.
 
 ## **Repository Structure**
--**Filtered_data/:**
--Contains filtered health and Spotify data in CSV format.
--**Outputs_Graph/:**
--Stores visualizations for each research question.
--**graph_functions.py:**
--Python code for data preprocessing and visualization.
--**Report.pdf:**
--A comprehensive report summarizing findings, methodologies, and limitations.
+**Filtered_data/:**
+- Contains filtered health and Spotify data in CSV format.
+**Outputs_Graph/:**
+- Stores visualizations for each research question.
+**graph_functions.py:**
+- Python code for data preprocessing and visualization.
+**PRESENTATION.pdf:**
+- A comprehensive report summarizing findings, methodologies, and limitations.
