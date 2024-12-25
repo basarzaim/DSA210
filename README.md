@@ -43,7 +43,7 @@ Music is a significant part of daily life, and its influence on physical activit
 -Average headphone audio exposure levels were similar across genres, with no genre-specific trends.
 
 
-##**Limitations**
+## **Limitations**
 -Granularity:
 -Aggregated data (daily/monthly) may have masked finer patterns.
 
@@ -53,7 +53,7 @@ Music is a significant part of daily life, and its influence on physical activit
 -Causality:
 -Correlations do not imply causation due to the observational nature of the data.
 
-##**Future Directions**
+## **Future Directions**
 -Refinement:
 -Include additional data, such as workout types and user demographics, for deeper analysis.
 -Personalization:
@@ -61,7 +61,7 @@ Music is a significant part of daily life, and its influence on physical activit
 -Long-Term Trends:
 -Examine data over extended periods to identify seasonal patterns.
 
-##**Repository Structure**
+## **Repository Structure**
 -**Filtered_data/:**
 -Contains filtered health and Spotify data in CSV format.
 -**Outputs_Graph/:**
