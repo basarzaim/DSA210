@@ -22,11 +22,11 @@ Music is a significant part of daily life, and its influence on physical activit
 - **Graph Generation Code:** The graph.py file contains the Python functions used to generate the graphs. [View the python code for deriving graphs.](./Filtered_data/graph_functions.py)
 
 ## **Methodology**
---**Data Collection**: Health metrics were collected from wearable devices and mobile phones, while Spotify API provided listening history, including genres and durations.
---**Preprocessing**: Data was filtered to include only 2024, genres were mapped to broader categories, and daily and monthly aggregates were calculated.
---**Analysis**: Each research question was addressed using appropriate visualizations (e.g., bar charts, scatter plots, and boxplots) and statistical correlation tests.
---**Visualization**: Trends and distributions were explored to identify relationships between music habits and health metrics like calories burned, steps, and walking asymmetry.
---**Reporting**: Observations, conclusions, and limitations were documented for each question.
+-- **Data Collection**: Health metrics were collected from wearable devices and mobile phones, while Spotify API provided listening history, including genres and durations.
+-- **Preprocessing**: Data was filtered to include only 2024, genres were mapped to broader categories, and daily and monthly aggregates were calculated.
+-- **Analysis**: Each research question was addressed using appropriate visualizations (e.g., bar charts, scatter plots, and boxplots) and statistical correlation tests.
+-- **Visualization**: Trends and distributions were explored to identify relationships between music habits and health metrics like calories burned, steps, and walking asymmetry.
+-- **Reporting**: Observations, conclusions, and limitations were documented for each question.
 
 ## **Findings**
 **1. Music Genres vs Physical Activity:**
