@@ -44,13 +44,13 @@ Music is a significant part of daily life, and its influence on physical activit
 
 
 ## **Limitations**
-- Granularity:
+**Granularity:**
 - Aggregated data (daily/monthly) may have masked finer patterns.
 
-- External Factors:
+**External Factors:**
 - Activity levels and audio exposure might be influenced by factors outside the dataset (e.g., lifestyle, environmental noise).
 
-- Causality:
+**Causality:**
 - Correlations do not imply causation due to the observational nature of the data.
 
 ## **Future Directions**
