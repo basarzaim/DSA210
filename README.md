@@ -64,9 +64,12 @@ Music is a significant part of daily life, and its influence on physical activit
 ## **Repository Structure**
 **Filtered_data/:**
 - Contains filtered health and Spotify data in CSV format.
+
 **Outputs_Graph/:**
 - Stores visualizations for each research question.
+
 **graph_functions.py:**
 - Python code for data preprocessing and visualization.
+
 **PRESENTATION.pdf:**
 - A comprehensive report summarizing findings, methodologies, and limitations.
