@@ -2,6 +2,8 @@
 
 This repository contains a data science project analyzing the correlation between music listening habits and health metrics. It uses personal data from Spotify and health metrics from a wearable device and mobile phone to explore how music genres, listening durations, and patterns relate to physical activity and overall health.
 
+[This is the final report of the project.](https://basarzaimdsa.netlify.app/)
+
 ---
 
 ## **Table of Contents**
