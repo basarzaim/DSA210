@@ -60,7 +60,7 @@ Music is a significant part of daily life, and its influence on physical activit
 
 ### **1. Data Collection**
 - Health metrics were exported from Apple Health.
-- Spotify listening data was extracted via API requests.
+- Spotify listening data was requested, genre informations were extracted via API requests.
 - Genres were mapped into broader categories (e.g., "german metal" → "Metal"):
   ```python
   genre_mapping = {
