@@ -86,7 +86,6 @@ EDA techniques were used to:
 - Addressed each research question using:
   - Descriptive statistics
   - Visualizations (e.g., stacked bar charts, heatmaps)
-  - Regression models (e.g., OLS for correlations)
 
 ---
 
@@ -140,9 +139,9 @@ EDA techniques were used to:
 - **Outputs_Graph/**:
   - Contains visualizations for each research question.
 - **graph_functions.py**:
-  - Python code for graph generation and regression analysis.
-- **PRESENTATION.pdf**:
-  - Summary of findings and methodologies.
+  - Python codes for graph generations & analyses.
+- **Report.pdf**:
+  - Summary of research questions and findings.
 
 ---
 
