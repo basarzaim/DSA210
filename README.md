@@ -85,12 +85,15 @@ EDA techniques were used to:
 
 ### **4. Analysis**
 - Addressed each research question using:
-  - Descriptive statistics
-  - Visualizations (e.g., stacked bar charts, heatmaps)
-
+  - Descriptive Statistics: Explored central tendencies, variability, and distributions in the data for different genres, listening durations, and activity metrics.
+  - Visualizations: Utilized a variety of visual tools to uncover patterns and relationships:
+  - Data Aggregation: Organized daily data into meaningful summaries, such as monthly averages and genre-based aggregates, to enhance interpretability.
+  - One-Hot Encoding: Used to map music genres into broader categories, simplifying analysis without losing critical insights.
+  - Key Insights: Provided a comprehensive overview of listening habits and physical activity trends across 9 months of data.
 ---
 
 ## **Findings**
+Check the [report](https://basarzaimdsa.netlify.app/) for the detailed findings.
 
 ### **1. Music Genres vs Physical Activity**
 - Energetic genres (e.g., Metal, Rock, and Electronic) showed minor associations with higher activity levels.
