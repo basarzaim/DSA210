@@ -45,6 +45,7 @@ Music is a significant part of daily life, and its influence on physical activit
   - Walking speed
   - Walking asymmetry
   - Average headphone exposure levels
+- Impractical data were extracted.
 - Data from 2021-2023 was excluded to align with Spotify data from 2024.
 
 ### **2. Spotify Data**
