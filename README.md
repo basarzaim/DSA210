@@ -87,9 +87,9 @@ EDA techniques were used to:
 - Addressed each research question using:
   - Descriptive Statistics: Explored central tendencies, variability, and distributions in the data for different genres, listening durations, and activity metrics.
   - Statistical tests
-    -Chi-Square Test: Used in Question 1 to analyze relationships between music genres and activity levels.
-    -Pearson Correlation and OLS Regression: Applied in Question 2 to measure the correlation between listening time and exercise intensity.
-    -ANOVA Test: Used in Questions 5 and 6 to compare group means (e.g., prolonged listening and walking speed).
+      -Chi-Square Test: Used in Question 1 to analyze relationships between music genres and activity levels.
+      -Pearson Correlation and OLS Regression: Applied in Question 2 to measure the correlation between listening time and exercise intensity.
+      -ANOVA Test: Used in Questions 5 and 6 to compare group means (e.g., prolonged listening and walking speed).
   - Visualizations: Utilized a variety of visual tools to uncover patterns and relationships:
 ---
 
