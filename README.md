@@ -138,13 +138,13 @@ Please check the [website](https://basarzaimdsa.netlify.app/) for the detailed f
 
 ## **Repository Structure**
 
-- **Filtered_data/**:
+- **[Filtered_data](/Filtered_data)**:
   - Processed health and Spotify data in CSV format.
-- **Graphs/**:
+- **[Graphs](/Graphs)**:
   - Contains visualizations for each research question.
-- **Codes/**:
+- **[Codes](/Codes)**:
   - Python codes for graph generations & analyses.
-- **Report.pdf**:
+- **[Report.pdf](/Report.pdf)**:
   - Summary of research questions and findings.
 
 ---
