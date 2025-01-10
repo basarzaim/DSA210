@@ -86,27 +86,27 @@ EDA techniques were used to:
 ### **4. Analysis**
 - Addressed each research question using:
   - Descriptive Statistics: Explored central tendencies, variability, and distributions in the data for different genres, listening durations, and activity metrics.
+  - Statistical tests
+    -Chi-Square Test: Used in Question 1 to analyze relationships between music genres and activity levels.
+    -Pearson Correlation and OLS Regression: Applied in Question 2 to measure the correlation between listening time and exercise intensity.
+    -ANOVA Test: Used in Questions 5 and 6 to compare group means (e.g., prolonged listening and walking speed).
   - Visualizations: Utilized a variety of visual tools to uncover patterns and relationships:
-  - Data Aggregation: Organized daily data into meaningful summaries, such as monthly averages and genre-based aggregates, to enhance interpretability.
-  - One-Hot Encoding: Used to map music genres into broader categories, simplifying analysis without losing critical insights.
-  - Key Insights: Provided a comprehensive overview of listening habits and physical activity trends across 9 months of data.
 ---
 
 ## **Findings**
 Check the [report](https://basarzaimdsa.netlify.app/) for the detailed findings.
 
 ### **1. Music Genres vs Physical Activity**
-- Energetic genres (e.g., Metal, Rock, and Electronic) showed minor associations with higher activity levels.
-- No strong correlation was observed between genres and physical activity metrics.
+-Energetic genres (e.g., Metal, Rock, and Electronic) showed minor associations with higher activity levels. No strong correlation was observed between genres and physical activity metrics.
 
 ### **2. Listening Time vs Exercise Intensity**
-- Scatter plots revealed no significant correlation between listening time and exercise intensity metrics like steps or calories burned per minute.
+-Scatter plots revealed no significant correlation between listening time and exercise intensity metrics like steps or calories burned per minute.
 
 ### **3. Genre-Specific Walking Metrics**
-- Prolonged listening to specific genres did not significantly impact walking speed or asymmetry.
+-Prolonged listening to specific genres did not significantly impact walking speed or asymmetry.
 
 ### **4. Headphone Audio Exposure**
-- Average headphone audio exposure levels were similar across genres, with no strong genre-specific trends.
+-Average headphone audio exposure levels were similar across genres, with no strong genre-specific trends.
 
 ---
 
