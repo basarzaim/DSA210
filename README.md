@@ -140,9 +140,9 @@ Check the [report](https://basarzaimdsa.netlify.app/) for the detailed findings.
 
 - **Filtered_data/**:
   - Processed health and Spotify data in CSV format.
-- **Outputs_Graph/**:
+- **Graphs/**:
   - Contains visualizations for each research question.
-- **graph_functions.py**:
+- **Codes/**:
   - Python codes for graph generations & analyses.
 - **Report.pdf**:
   - Summary of research questions and findings.
