@@ -2,7 +2,7 @@
 
 This repository contains a data science project analyzing the correlation between music listening habits and health metrics. It uses personal data from Spotify and health metrics from a wearable device and mobile phone to explore how music genres, listening durations, and patterns relate to physical activity and overall health.
 
-[This is the final report of the project.](https://basarzaimdsa.netlify.app/)
+Please check the [website](https://basarzaimdsa.netlify.app/) I prepared for the report and detailed analysis of hypothesis and resarch questions.]
 
 ---
 
@@ -40,16 +40,16 @@ Music is a significant part of daily life, and its influence on physical activit
 ### **1. Health Data**
 - Collected from Apple Health between 2021-2024.
 - Metrics include:
-  - Calories burned
-  - Step count
-  - Walking speed
-  - Walking asymmetry
-  - Average headphone exposure levels
+  - [Calories burned](/Filtered_data/HKQuantityTypeIdentifierActiveEnergyBurned_filtered.csv)
+  - [Step count](/Filtered_data/HKQuantityTypeIdentifierStepCount_filtered.csv)
+  - [Walking speed](/Filtered_data/HKQuantityTypeIdentifierWalkingSpeed_filtered.csv)
+  - [Walking asymmetry](/Filtered_data/HKQuantityTypeIdentifierWalkingAsymmetryPercentage_filtered.csv)
+  - [Average headphone exposure levels](/Filtered_data/HKQuantityTypeIdentifierHeadphoneAudioExposure_filtered.csv)
 - Impractical data were extracted.
 - Data from 2021-2023 was excluded to align with Spotify data from 2024.
 
 ### **2. Spotify Data**
-- Listening history exported using the Spotify API for 2024.
+- [Listening history](/Filtered_data/spotify_data_with_genres.csv) exported using the Spotify API for 2024.
 - An API key was used to extract genres for tracks. Subgenres were mapped into broader genres for ease of analysis.
 
 ### **3. Final Data**
@@ -85,12 +85,12 @@ EDA techniques were used to:
 
 ### **4. Analysis**
 Addressed each research question using:
-- Descriptive Statistics: Explored central tendencies, variability, and distributions in the data for different genres, listening durations, and activity metrics.
+- **Descriptive Statistics:** Explored central tendencies, variability, and distributions in the data for different genres, listening durations, and activity metrics.
 - Statistical tests
-  - Chi Square Test: Used in Question 1 to analyze relationships between music genres and activity levels.
-  - Pearson Correlation and OLS Regression: Applied in Question 2 to measure the correlation between listening time and exercise intensity.
-  - ANOVA Test: Used in Questions 5 and 6 to compare group means (e.g., prolonged listening and walking speed).
-- Visualizations: Utilized a variety of visual tools to uncover patterns and relationships:
+  - **Chi Square Test:** Used in Question 1 to analyze relationships between music genres and activity levels.
+  - **Pearson Correlation and OLS Regression:** Applied in Question 2 to measure the correlation between listening time and exercise intensity.
+  - **ANOVA Test:** Used in Questions 5 and 6 to compare group means (e.g., prolonged listening and walking speed).
+- **Visualizations:** Utilized a variety of visual tools to uncover patterns and relationships:
 ---
 
 ## **Findings**
