@@ -94,7 +94,7 @@ Addressed each research question using:
 ---
 
 ## **Findings**
-Check the [report](https://basarzaimdsa.netlify.app/) for the detailed findings.
+Please check the [website](https://basarzaimdsa.netlify.app/) for the detailed findings.
 
 ### **1. Music Genres vs Physical Activity**
 -Energetic genres (e.g., Metal, Rock, and Electronic) showed minor associations with higher activity levels. No strong correlation was observed between genres and physical activity metrics.
